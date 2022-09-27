@@ -1,2 +1,2 @@
-# day--16-landing-page
-Demo Link - https://stupefied-mccarthy-de8833.netlify.app/
+# day--16-laud page site
+Demo Link - https://shiny-pudding-cb6d5e.netlify.app/
