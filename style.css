@@ -1,0 +1,107 @@
+
+
+.navbar{
+    background-color: black;
+    color: white;
+}
+
+.heading{
+    background-color: black;
+    color: white;
+   padding: 100px 0px 100px 0px;
+}
+
+.heading h1
+{
+    font-size: 3rem;
+    font-weight: bolder;
+}
+.heading p{
+    font-size: 1.5rem;
+    color: rgb(255 255 255 / 55%);
+}
+
+
+.info-block{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    font-size: 1.1rem;
+    font-weight: bold;
+    padding-top: 3%;
+}
+
+.skimg{
+    height: 78%;
+    width: 70%;
+}
+
+.img{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons{
+    text-align: center;
+    padding: 2.5% 0% 2.5% 0%;
+}
+
+.btn{
+    margin: 4% 4%;
+    width: 20%;
+    height: 25%;
+}
+
+.quote{
+    background-color: black;
+    color: white;
+    padding: 3%;
+} 
+
+.quote1{
+    text-align: center;
+    font-size: 2rem;
+    padding: 2.5% 0% 2.5% 0%;
+    font-weight: bolder;
+}
+
+.films{
+    font-size: 2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding-bottom: 2%;
+    margin-bottom: 3%;
+    color: grey;
+}
+
+.cards{
+    padding: 5% 0% 5% 0%;
+}
+
+
+.card{
+    font-size: 1rem;
+}
+
+.footer{
+    padding: 5% 5% 5% 5%;
+    background-color: black;
+    color: white;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+}
+
+.image{
+width:50px;
+height: 50px;
+}
